@@ -1,1 +1,12 @@
 baseurl: /jekyll
+
+auto: true
+
+markdown: rdiscount
+pygments: true
+paginate: 8
+permalink: /:title
+
+title: 卡布奇诺
+
+
